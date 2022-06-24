@@ -29,4 +29,4 @@ if(operator === "+"){
 }else if (operator === "*"){
     result = num1 * num2;
 }
-alert(result);
+alert(num1+operator+num2+"=" + result);
